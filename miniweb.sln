@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "miniweb", "miniweb.vcxproj", "{06E5025D-53D7-4B39-8D4C-D06E39A3023A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release_Serial|Win32 = Release_Serial|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E5025D-53D7-4B39-8D4C-D06E39A3023A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06E5025D-53D7-4B39-8D4C-D06E39A3023A}.Debug|Win32.Build.0 = Debug|Win32
+		{06E5025D-53D7-4B39-8D4C-D06E39A3023A}.Release_Serial|Win32.ActiveCfg = Release_Serial|Win32
+		{06E5025D-53D7-4B39-8D4C-D06E39A3023A}.Release_Serial|Win32.Build.0 = Release_Serial|Win32
+		{06E5025D-53D7-4B39-8D4C-D06E39A3023A}.Release|Win32.ActiveCfg = Release|Win32
+		{06E5025D-53D7-4B39-8D4C-D06E39A3023A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE41A831-68E1-4378-9EDB-32A5CFB1BC7F}
+	EndGlobalSection
+EndGlobal
